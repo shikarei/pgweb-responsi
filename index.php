@@ -51,6 +51,26 @@
             z-index: 10001;
         }
 
+        /* Style Hero Section */
+        .hero-section {
+            background-image: url('images/museumbatik2.jpg');
+            background-size: cover;
+            background-position: center;
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            color: white;
+            text-align: center;
+            font-family: 'Segoe UI';
+        }
+
+        .hero-content {
+            background: rgba(9, 0, 44, 0.5);
+            padding: 20px;
+            border-radius: 10px;
+        }
+
         /* Style Peta */
         #map {
             width: 100%;
@@ -315,6 +335,12 @@
                         <button type="button" class="btn btn-primary" data-bs-dismiss="modal">Tutup</button>
                     </div>
                 </div>
+            </div>
+        </div>
+        <div class="hero-section">
+            <div class="hero-content">
+                <h1>ExBatik</h1>
+                <h4>Eksplorasi UMKM Batik Pekalongan</h4>
             </div>
         </div>
         <div class="container border border-primary rounded">
