@@ -11,6 +11,7 @@ WebGIS ExBatik dibuat dengan komponen dari LeafletJS untuk menampilkan peta, kom
 Sumber Data yang digunakan untuk menyusun WebGIS ExBatik adalah website Pemerintah Kota Pekalongan untuk mendapatkan informasi yang ditambahkan dalam deskripsi awal, Geoportal Kota Pekalongan untuk mendapatkan data garis jalan, website Indonesia Geospasial untuk mendapatkan data area Kota Pekalongan, dan Google Maps untuk mendapatkan informasi mengenai titik koordinat dari masing – masing UMKM penyedia Batik Pekalongan. 
 
 # Tangkapan Layar Komponen Penting
+![image](https://github.com/user-attachments/assets/c666f55e-f35e-4c19-9de0-992f54dadaf1)
 ![Screenshot 2024-12-16 234551](https://github.com/user-attachments/assets/e04cbd6f-d5f8-4aa2-8d25-1c31d16a3934)
 ![Screenshot 2024-12-16 233716](https://github.com/user-attachments/assets/b42434bb-d467-4e15-99fa-00dc08322465)
 ![image](https://github.com/user-attachments/assets/b33d4104-0e9c-461b-bfcb-12c0229d7cb3)
